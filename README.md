@@ -1,7 +1,7 @@
 
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Luiz Felipe and my nickname is "Skunby"!
-### Currently, I study computer science and focus on working with cybersecurity. I have some development courses in the front-end area, and I'm looking to be a fullstack developer.
+### Currently, I study analyst system and focus on working with cybersecurity. I have some development courses in the front-end area, and I'm looking to be a fullstack developer.
 
  ## Front End
  

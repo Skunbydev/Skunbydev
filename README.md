@@ -1,23 +1,25 @@
 
-# 👋 Hello! Welcome to my Github profile.
-## My name is Luiz Felipe and my nickname is "Skunby"!
-### Currently, I study analyst system and focus on working with cybersecurity. I have some development courses in the front-end area, and I'm looking to be a fullstack developer.
+# 👋 Olá! Bem vindo ao meu perfil do github.
+## Meu nome é Luiz Felipe e meu nickname é "Skunby"!
+### Atualmente, estou focado em aprender desenvolvimento fullstack. Tenho amplo interesse em novas tecnologias que são lançadas e pretendo ser especialista em I.A'S., as linguagens que utilizo estão citadas logo abaixo: 
  ![Coding](https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966)
 
  ## Front End
  
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"  width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" widht="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" widht="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" widht="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" widht="40" height="40" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"  width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" widht="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" widht="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" widht="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
           
  
+          
+ ## Servidores: 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" widht="40" height="40"/>
  
    ## Back end 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" widht="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" widht="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" widht="40" height="40"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"  width="40" height="40"/>
           
           
           
- ## I am learning
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" widht="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" widht="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" widht="40" height="40"/>
+         
           
  ## Contatos:
 

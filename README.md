@@ -1,6 +1,6 @@
 ## Sobre Mim:
 
-- 🔭 Atualmente estou trabalhando na **Raj Tecnologia**.
+- 🔭 Atualmente estou trabalhando na **Raj Tecnologia**, como desenvolvedor fullstack.
 - 🤼‍♂️ No meu tempo livre, gosto de jogar e treinar **jiu jitsu**.
 - 🤝 Sou voluntário em projetos **front-end**.
 - 🌱 Atualmente estou aprendendo sobre **Docker/Containers**.

@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou trabalhando na **Raj Tecnologia**, como desenvolvedor fullstack php.
 - 🤼‍♂️ No meu tempo livre, gosto de jogar e treinar **jiu jitsu**.
-- 🤼‍♂️ Treino jiu jitsu hà 4 anos e sou faixa azul. 
+- 🤼‍♂️ Treino jiu jitsu há 6 anos. 
 - 🤝 Sou voluntário em projetos **front-end**.
 - 🌱 Atualmente estou aprendendo sobre **Docker/Containers**.
 - 💬 Pergunte-me sobre **IoT**.
